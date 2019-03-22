@@ -8,24 +8,17 @@ For those interested in implementing this application, to build off of for your 
 
 1) Clone the repository<br>`git clone https://github.com/bkleeman/personal-website-gatsby.git`
 
-2) cd into the appropriate directory
-    `cd personal-website-gatsby`
+2) cd into the appropriate directory<br>`cd personal-website-gatsby`
 
 3) `npm install`
 
-4) Build the public file system
-    `gatsby build`
+4) Build the public file system<br>`gatsby build`
 
-5) Run a production server
-    `gatsby serve`
-    You now have an instance running at http://localhost:9000/, and you can download the application
+5) Run a production server<br>`gatsby serve`<br>You now have an instance running at http://localhost:9000/, and you can download the application
 
 6) Install to the desktop/Add to Home Screen
     
-    6a) For Google Chrome on desktop: 
-        Select the "more vertical" menu -- you know, the one in the upper right with the three dots 
-
-        and select "Install benjamin-kleeman-personal website"
+    6a) For Google Chrome on desktop: Select the "more vertical" menu (you know, the one in the upper right with the three dots) and select "Install benjamin-kleeman-personal website"
 
     6b) For Google Chrome on Android: 
         Follow these instructions https://www.maketecheasier.com/add-chrome-bookmarks-android-home-screen/
