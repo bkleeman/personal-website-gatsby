@@ -14,24 +14,21 @@ For those interested in implementing this application, to build off of for your 
 
 4) Build the public file system<br>`gatsby build`
 
-5) Run a production server<br>`gatsby serve`<br>You now have an instance running at http://localhost:9000/, and you can download the application
+5) Run a production server<br>`gatsby serve`<br><br>You now have an instance running at http://localhost:9000/, and you can download the application
 
 6) Install to the desktop/Add to Home Screen
     
     6a) For Google Chrome on desktop: Select the "more vertical" menu (you know, the one in the upper right with the three dots) and select "Install benjamin-kleeman-personal website"
 
     6b) For Google Chrome on Android: 
-        Follow these instructions https://www.maketecheasier.com/add-chrome-bookmarks-android-home-screen/
+        Follow these instructions: https://www.maketecheasier.com/add-chrome-bookmarks-android-home-screen/
 
     6c) For Safari on iOS: 
-        Select the share icon, and navigate the bottom row to the big "plus sign" icon, and tap "Add to Home Screen." This will add the application to your home screen and you can open it for a native app-like experience.
+        Select the "share" icon, and navigate through the bottom row to the big "plus sign" icon, and tap "Add to Home Screen." This will add the application to your home screen and you can open it for a native app-like experience.
 
-7) To run a development server,
-    `gatsby serve`
-    You can now take advantage of hot reloading as you customize the site to suit your needs.
+7) To run a development server,<br>`gatsby serve`<br>You can now take advantage of hot reloading as you customize the site to suit your needs.
 
 8) Peruse the [GatsbyJS documentation](https://www.gatsbyjs.org/docs/) 
-
 
 ## Built With
 
