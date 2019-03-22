@@ -7,6 +7,7 @@ This repository contains the source code for my personal website. This applicati
 For those interested in implementing this application, to build off of for your own purposes or otherwise, here are the steps you must take. For those just interested in installing the site as an application, skip ahead to step 6.
 
 1) Clone the repository
+<br>
 `git clone https://github.com/bkleeman/personal-website-gatsby.git`
 
 2) cd into the appropriate directory
@@ -25,8 +26,6 @@ For those interested in implementing this application, to build off of for your 
     
     6a) For Google Chrome on desktop: 
         Select the "more vertical" menu -- you know, the one in the upper right with the three dots 
-
-        ![Image of More Vertical Menu](/src/images/download-pwa.JPG)
 
         and select "Install benjamin-kleeman-personal website"
 
