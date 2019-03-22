@@ -20,7 +20,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Thanks go out to the following: 
-  * Professor James deBettencourt for inspiring me to work with JavaScript frameworks and encouraging me to learn ES6 best practices
+  * Professor [James deBettencourt](https://github.com/jdebettencourt) for inspiring me to work with JavaScript frameworks and encouraging me to learn ES6 best practices
   * Hunter Chang @ [CodeBushi](https://codebushi.com/) for the awesome Gatsby starter
   * [Wes Bos](https://github.com/wesbos) and [Scott Tolinski](https://github.com/stolinski) at [Syntax](https://syntax.fm/) for convincing me that Gatsby is worth pursuing
   * [Billie Thompson](https://github.com/PurpleBooth) for the README template
